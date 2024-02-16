@@ -15,7 +15,7 @@ export const TASKS = [
   },
   {
     text: "Build todo API",
-    category: "Code",
+    category:"Code",
   },
   {
     text: "Get an ISA",
